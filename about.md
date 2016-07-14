@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
-In a few words :
+Some information about me!  
+In a few words :  
 + web project manager at La Médicale, Paris, France.
 + Student in web project management at UPEM, Champs sur Marne, France.  
 
