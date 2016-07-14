@@ -6,8 +6,8 @@ permalink: /about/
 
 Some information about me!
 In a few words :
-* web project manager at La Médicale, Paris, France.  
-* Student in web project management at UPEM, Champs sur Marne, France.  
++ web project manager at La Médicale, Paris, France.
++ Student in web project management at UPEM, Champs sur Marne, France.  
 
 A curious mind drives me to try to know more about development and coding  .
 Interested in #PHP #Ruby.  
