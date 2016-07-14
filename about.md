@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
+In a few words :
+- web project manager at La Médicale, Paris, France.
+- Student in web project management at UPEM, Champs sur Marne, France.
+
+A curious mind drives me to try to know more about development and coding.
+Interested in #PHP #Ruby.
+Working on small projects.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Wanna get find my résumé ? [Here it is](https://linkedin.com/in/maximeterree/en)
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[m-terree{a}protonmail.com](mailto:m_terree@protonmail.com)

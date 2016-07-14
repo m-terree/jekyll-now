@@ -25,7 +25,7 @@ footer-links:
   flickr:
   github: m-terree
   instagram:
-  linkedin: maximeterree
+  linkedin: maximeterree/en
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: maxime_terree
@@ -86,3 +86,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+  gems:
+  - jemoji
